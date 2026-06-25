@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+Pillow
+rasterio
+numpy
+pandas
+matplotlib
+faiss-cpu

@@ -1,0 +1,5 @@
+echo data/OSCD/ > .gitignore
+echo data/results/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo .ipynb_checkpoints/ >> .gitignore

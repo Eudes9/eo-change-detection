@@ -1,0 +1,602 @@
+[
+  {
+    "city": "abudhabi",
+    "date_before": "20160120",
+    "date_after": "20180328",
+    "change_score": 0.0256,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0054
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0054
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0031
+      }
+    ],
+    "coords": [
+      54.540252685546875,
+      24.291407914292037
+    ]
+  },
+  {
+    "city": "aguasclaras",
+    "date_before": "20150916",
+    "date_after": "20171015",
+    "change_score": 0.0222,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0038
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0033
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0026
+      }
+    ],
+    "coords": [
+      -48.049821853637695,
+      -15.859636595173626
+    ]
+  },
+  {
+    "city": "beihai",
+    "date_before": "20161209",
+    "date_after": "20180309",
+    "change_score": 0.0339,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0135
+      },
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0095
+      },
+      {
+        "description": "industrial development",
+        "score": 0.0044
+      }
+    ],
+    "coords": [
+      109.4839096069336,
+      21.531653397583106
+    ]
+  },
+  {
+    "city": "beirut",
+    "date_before": "20150820",
+    "date_after": "20171003",
+    "change_score": 0.027,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0085
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0064
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0052
+      }
+    ],
+    "coords": [
+      35.46180725097656,
+      33.80140293756829
+    ]
+  },
+  {
+    "city": "bercy",
+    "date_before": "20161130",
+    "date_after": "20170829",
+    "change_score": 0.0499,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "industrial development",
+        "score": 0.0072
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0069
+      },
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0061
+      }
+    ],
+    "coords": [
+      2.35931396484375,
+      48.82065440440466
+    ]
+  },
+  {
+    "city": "bordeaux",
+    "date_before": "20160504",
+    "date_after": "20171026",
+    "change_score": 0.0733,
+    "interpretation": "Changement mod\u00e9r\u00e9",
+    "top_changes": [
+      {
+        "description": "urban expansion and new construction",
+        "score": 0.0151
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.015
+      },
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0147
+      }
+    ],
+    "coords": [
+      -0.6009864807128906,
+      44.810583121135906
+    ]
+  },
+  {
+    "city": "brasilia",
+    "date_before": "20150916",
+    "date_after": "20171017",
+    "change_score": 0.0127,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0027
+      },
+      {
+        "description": "urban densification",
+        "score": 0.0025
+      },
+      {
+        "description": "urban expansion and new construction",
+        "score": 0.0021
+      }
+    ],
+    "coords": [
+      -47.90768623352051,
+      -15.766483542885926
+    ]
+  },
+  {
+    "city": "chongqing",
+    "date_before": "20170414",
+    "date_after": "20180402",
+    "change_score": 0.0116,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0049
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0041
+      },
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0013
+      }
+    ],
+    "coords": [
+      106.26972198486328,
+      29.379183431737633
+    ]
+  },
+  {
+    "city": "cupertino",
+    "date_before": "20150918",
+    "date_after": "20180326",
+    "change_score": 0.0262,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "urban densification",
+        "score": 0.006
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0048
+      },
+      {
+        "description": "agricultural field changes and crop rotation",
+        "score": 0.0045
+      }
+    ],
+    "coords": [
+      -122.05372810363768,
+      37.29761247853017
+    ]
+  },
+  {
+    "city": "dubai",
+    "date_before": "20151211",
+    "date_after": "20180330",
+    "change_score": 0.0257,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "urban densification",
+        "score": 0.008
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0048
+      },
+      {
+        "description": "urban expansion and new construction",
+        "score": 0.0029
+      }
+    ],
+    "coords": [
+      55.19376754760742,
+      25.0003719913183
+    ]
+  },
+  {
+    "city": "hongkong",
+    "date_before": "20160927",
+    "date_after": "20180323",
+    "change_score": 0.0361,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0102
+      },
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.01
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0053
+      }
+    ],
+    "coords": [
+      114.22811508178711,
+      22.276389027850755
+    ]
+  },
+  {
+    "city": "lasvegas",
+    "date_before": "20150820",
+    "date_after": "20180205",
+    "change_score": 0.0195,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "agricultural field changes and crop rotation",
+        "score": 0.0133
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0088
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0081
+      }
+    ],
+    "coords": [
+      -115.27233123779295,
+      35.98272917308846
+    ]
+  },
+  {
+    "city": "milano",
+    "date_before": "20161228",
+    "date_after": "20180122",
+    "change_score": 0.0118,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0067
+      },
+      {
+        "description": "urban expansion and new construction",
+        "score": 0.0055
+      },
+      {
+        "description": "new road infrastructure",
+        "score": 0.0033
+      }
+    ],
+    "coords": [
+      9.144916534423828,
+      45.47289204060055
+    ]
+  },
+  {
+    "city": "montpellier",
+    "date_before": "20150812",
+    "date_after": "20171030",
+    "change_score": 0.0261,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0073
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.003
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0022
+      }
+    ],
+    "coords": [
+      3.8790321350097656,
+      43.57777938919194
+    ]
+  },
+  {
+    "city": "mumbai",
+    "date_before": "20151130",
+    "date_after": "20180319",
+    "change_score": 0.0302,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0125
+      },
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0117
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0112
+      }
+    ],
+    "coords": [
+      72.90166854858398,
+      19.02560799192205
+    ]
+  },
+  {
+    "city": "nantes",
+    "date_before": "20150821",
+    "date_after": "20171014",
+    "change_score": 0.0714,
+    "interpretation": "Changement mod\u00e9r\u00e9",
+    "top_changes": [
+      {
+        "description": "agricultural field changes and crop rotation",
+        "score": -0.0002
+      },
+      {
+        "description": "flooding and water level changes",
+        "score": -0.0031
+      },
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": -0.0041
+      }
+    ],
+    "coords": [
+      -1.5773963928222656,
+      47.175595157859455
+    ]
+  },
+  {
+    "city": "norcia",
+    "date_before": "20150711",
+    "date_after": "20171018",
+    "change_score": 0.033,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0167
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0149
+      },
+      {
+        "description": "agricultural field changes and crop rotation",
+        "score": 0.0044
+      }
+    ],
+    "coords": [
+      13.072099685668945,
+      42.78078728488571
+    ]
+  },
+  {
+    "city": "paris",
+    "date_before": "20161130",
+    "date_after": "20171107",
+    "change_score": 0.0453,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0121
+      },
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0088
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0073
+      }
+    ],
+    "coords": [
+      2.3101329803466797,
+      48.79759200667088
+    ]
+  },
+  {
+    "city": "pisa",
+    "date_before": "20150704",
+    "date_after": "20180211",
+    "change_score": 0.0847,
+    "interpretation": "Changement mod\u00e9r\u00e9",
+    "top_changes": [
+      {
+        "description": "urban expansion and new construction",
+        "score": 0.0079
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0056
+      },
+      {
+        "description": "industrial development",
+        "score": 0.0035
+      }
+    ],
+    "coords": [
+      10.363025665283203,
+      43.674824840428265
+    ]
+  },
+  {
+    "city": "rennes",
+    "date_before": "20150821",
+    "date_after": "20170621",
+    "change_score": 0.0358,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0136
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0035
+      },
+      {
+        "description": "new road infrastructure",
+        "score": 0.0035
+      }
+    ],
+    "coords": [
+      -1.6851997375488281,
+      48.093789064833196
+    ]
+  },
+  {
+    "city": "rio",
+    "date_before": "20160424",
+    "date_after": "20171011",
+    "change_score": 0.0308,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0101
+      },
+      {
+        "description": "urban densification",
+        "score": 0.0088
+      },
+      {
+        "description": "urban expansion and new construction",
+        "score": 0.0086
+      }
+    ],
+    "coords": [
+      -43.403377532958984,
+      -22.98462936237051
+    ]
+  },
+  {
+    "city": "saclay_e",
+    "date_before": "20160315",
+    "date_after": "20170829",
+    "change_score": 0.0325,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "flooding and water level changes",
+        "score": 0.0055
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0003
+      },
+      {
+        "description": "agricultural field changes and crop rotation",
+        "score": -0.0001
+      }
+    ],
+    "coords": [
+      2.21743583679,
+      48.66681805477507
+    ]
+  },
+  {
+    "city": "saclay_w",
+    "date_before": "20160315",
+    "date_after": "20170829",
+    "change_score": 0.0441,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "forest regrowth and vegetation recovery",
+        "score": 0.0099
+      },
+      {
+        "description": "seasonal vegetation changes",
+        "score": 0.0043
+      },
+      {
+        "description": "deforestation and loss of vegetation",
+        "score": 0.0021
+      }
+    ],
+    "coords": [
+      2.138385772705078,
+      48.66681805477507
+    ]
+  },
+  {
+    "city": "valencia",
+    "date_before": "20160730",
+    "date_after": "20171107",
+    "change_score": 0.0454,
+    "interpretation": "Stable",
+    "top_changes": [
+      {
+        "description": "agricultural field changes and crop rotation",
+        "score": 0.0312
+      },
+      {
+        "description": "industrial development",
+        "score": 0.0159
+      },
+      {
+        "description": "land use conversion from rural to urban",
+        "score": 0.0095
+      }
+    ],
+    "coords": [
+      -0.4460620880126953,
+      39.48165297689071
+    ]
+  }
+]
